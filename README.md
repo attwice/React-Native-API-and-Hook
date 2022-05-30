@@ -1,5 +1,3 @@
-![React Native Hooks](reactnativehooks.jpg)
-
 ## React Native Hooks
 
 [![Version][version-badge]][package]
